@@ -1,0 +1,10 @@
+/node_modules
+/public/hot
+/public/storage
+/bootstrap/*
+/storage
+/vendor
+/.idea
+.env
+/doc
+.DS_Store
